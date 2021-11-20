@@ -20,11 +20,3 @@ A few pointers to get you started:
 * [[The Outdoors]] *Coming Soon*
 * [[bags and Stuff]] *Coming Soon*
 
----
-
-#### Metadata
-- **Tags:**	
-- **Creation Date:**	[[2021-07-11]]
-- **Last Edit Date:**	[[2021-07-11|Sunday 11th July 2021 13:13:32]]
-
----
