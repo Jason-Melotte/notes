@@ -5,10 +5,16 @@ permalink: /about/
 content-type: eg
 ---
 
-Welcome to [[notenote.link::https://github.com/Maxence-L/notenote.link]], a fork of [[Simply Jekyll::https://github.com/raghuveerdotnet/simply-jekyll]]!
 
-I used Obsidian for the last 6 months, to keep track of all of the things I was learning while pivoting my career from Economics to Data Science.
+Welcome to **The Rambles Of A Mad Man** this site is a collection of my notes that make up my mind rambling through various subjects.
 
-200 notes later, I felt that my Obsidian space was getting cramped and I began to yearn for a way to access my notes everywhere. Simply-Jekyll appeared as the most satisfactory tool on the web, as I needed wikilinks, search, LateX, and code highlighting. 
+This is predominately done for me so some of the 'rambles' here could well be hard to understand for people not living with my brain.
 
-A little bit of dev work and polishing was need to make it compatible with my Obsidian notes. However, the template is now mature enough, so go on an [[How to setup this site\|give it a try!]]
+Also any views here are my own and not those of any organization I am connected with and as the name suggests are Ramblings rather than scientific fact therefore any actions a reader takes based on something they have read here must be at there own risk!
+
+## Were to start
+A few pointers to get you started:
+* [[Pyramid of Life]]
+* [[My Technology Stack]]
+* [[The Outdoors]] *Coming Soon*
+* [[bags and Stuff]] *Coming Soon*
