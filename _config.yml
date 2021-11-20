@@ -1,12 +1,12 @@
 title: Jason Melotte
 name: Rambles Of A Mad Man
 user_description: Random thoughts and writtings
-notes_url: "https://notenote.link.netlify.app"
+notes_url: "https://jason-melotte.github.io/notes"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
 copyright_name: MIT
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://notenote.link.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/notes" # the subpath of your site, e.g. /blog
+url: "https://jason-melotte.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
