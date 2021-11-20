@@ -5,7 +5,7 @@ notetype: feed
 date: 2021-11-20
 comments: false
 season : summer
-tags: [" MFL "]
+tags: [" #MFL "]
 
 ---
 
@@ -18,6 +18,6 @@ Life balance has to incorporate all aspects of life:
 * Health
 * Fun
 
-Without a balance between them all happiness can never be achieved and life will immediately or eventually suck. It is around this that I came up with my [[Life Driver|Life Driver's]] as I felt if I could get them in the correct balance then I would find [[Happiness]] or at least [[Contentment]].
+Without a balance between them all happiness can never be achieved and life will immediately or eventually suck. It is around this that I came up with my [[Life Driver/|Life Driver's]] as I felt if I could get them in the correct balance then I would find [[Happiness]] or at least [[Contentment]].
 
 I do not believe that the correct balance is an equal split between my drivers, I also don't believe that the split stays the same through ones life and in some ways this is the primary challenge ensuring a balance through life changes even through the seasons of a year can be a tough thing to do.
